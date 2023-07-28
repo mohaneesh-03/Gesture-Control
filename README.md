@@ -27,7 +27,7 @@ Follow these steps to get the gesture control project up and running:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/gesture-control.git
+git clone https://github.com/mohaneesh-03/Gesture-Control.git
 ```
 
 2. Navigate to the project directory:
